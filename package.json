@@ -1,0 +1,20 @@
+{
+  "name": "simple-koa2",
+  "version": "1.0.0",
+  "description": "一个简化版的koa2的实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alive1541/simple-koa2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "lib/application.js",
+  "bugs": {
+    "url": "https://github.com/alive1541/simple-koa2/issues"
+  },
+  "homepage": "https://github.com/alive1541/simple-koa2#readme"
+}
